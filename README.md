@@ -7,5 +7,7 @@
 
 
 programming languages:- Python
+
 Notebook :- Google Colab Notebook
-cloud :- Heroku
+
+Cloud(For Deployment) :- Heroku
